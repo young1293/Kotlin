@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main);
      // main_tv.setText("欢迎来到这里")//赋值的第一种写法
         main_tv.text="欢迎热烈欢迎";//赋值的第二种写法
+        
         main_tv.setOnClickListener { Toast.makeText(applicationContext,"好的",Toast.LENGTH_LONG).show(); }
         
     }

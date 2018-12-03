@@ -30,6 +30,10 @@ Kotlin语言官方参考文档中文版
 https://hltj.gitbooks.io/kotlin-reference-chinese/content/txt/basic-syntax.html
 
 
+愉快的Android应用程序开发   https://github.com/Kotlin/anko
+
+
+如何评价 Kotlin 语言？https://www.zhihu.com/question/25289041 
 
 
 
